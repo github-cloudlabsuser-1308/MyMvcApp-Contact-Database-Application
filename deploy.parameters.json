@@ -9,13 +9,13 @@
       "value": "MyMvcApp-Plan"
     },
     "skuName": {
-      "value": "F1"
+      "value": "B1"
     },
     "skuTier": {
-      "value": "Free"
+      "value": "Basic"
     },
     "location": {
-      "value": "East US"
+      "value": "West US"
     }
   }
 }
