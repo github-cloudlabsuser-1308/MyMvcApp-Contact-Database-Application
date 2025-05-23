@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "your-unique-app-name" 
+      "value": "barbaras-mymvcapp" 
     },
     "hostingPlanName": {
       "value": "MyMvcApp-Plan"
@@ -15,7 +15,7 @@
       "value": "Free"
     },
     "location": {
-      "value": "West Europe"
+      "value": "East US"
     }
   }
 }
